@@ -29,11 +29,11 @@ Ensure you have the following installed:
 - [Docker](https://www.docker.com/)  
 - AWS Account with **IAM access** & **S3 Bucket**  
 
-## 📸 Glimpses of DeployPilot
+## 📸 Glimpses of DeployPilot  
 
-### 1️⃣ Build Image in Docker
-![Build Image](glimpses-of-project/Build-Image.png)
+### 1️⃣ Build Image in Docker  
+![Build Image](Glimpses_of_Project/Build-Image.png)  
 
-### 2️⃣ S3 Storage
-![S3 Storage](glimpses-of-project/S3-storage.png)
+### 2️⃣ S3 Bucket Storage  
+![S3 Storage](Glimpses_of_Project/S3BucketStorage.png)  
 
