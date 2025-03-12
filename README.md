@@ -28,3 +28,13 @@ Ensure you have the following installed:
 - [Node.js](https://nodejs.org/)  
 - [Docker](https://www.docker.com/)  
 - AWS Account with **IAM access** & **S3 Bucket**  
+
+## 📸 Glimpses of DeployPilot  
+
+### **1️⃣ Build Image in docker**  
+![Build-Image](Glimpses-of-Project/Build-Image.png)  
+
+### **2️⃣ S3 Storage**  
+![S3 storage](Glimpses-of-Project/S3BucketStorage.png)  
+
+
